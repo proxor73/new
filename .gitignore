@@ -1,0 +1,6 @@
+# folder logs ignored
+logs/
+
+# txt-files ignored
+duds/*.txt
+
