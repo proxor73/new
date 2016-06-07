@@ -1,7 +1,5 @@
 <?php 
-	echo "Welcome";
+	echo "Welcome Durimar";
 	echo "hello new branch";
-	echo "Hello Darkman";
-	echo "branch Master";
-	echo "Hello Dodman";
+
 ?>
